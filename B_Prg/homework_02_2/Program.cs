@@ -1,24 +1,4 @@
-﻿// Tento zdrojovy kod jsem vypracoval zcela samostatne bez cizi pomoci
-// Nekopiroval jsem ani neopsal jsem cizi zdrojove kody
-// Nikdo me pri vypracovani neradil
-// Pokud nektery radek porusuje toto pravidlo je oznacen komentarem
-// NENI MOJE TVORBA
-// Poruseni techto pravidel se povazuje za podvod, ktery lze potrestat VYLOUCENIM ZE STUDIA
-// Valiantsin Lubinski 40491
-
-
-// Příklad 2.2: Cyklický obousměrný spojový seznam 
-// Implementujte následující funkce pro práci s cyklickým obousměrným spojovým seznamem: 
-// a) Funkce Vypis vypíše seznam na obrazovku. [1 bod] 
-// b) Funkce Find vrátí první nalezený prvek seznamu obsahující hledanou hodnotu. [1 bod] 
-// c) Funkce InsertAfter vloží do seznamu nový prvek se zadanou hodnotou. [3 body] 
-// d) Funkce Delete smaže ze seznamu zadaný prvek. [3 body]
-
-
-using System.Net;
-using System.Security.Cryptography.X509Certificates;
-using System.Threading.Tasks.Dataflow;
-using System.Transactions;
+using System;
 
 namespace priklad2;
 class Program
